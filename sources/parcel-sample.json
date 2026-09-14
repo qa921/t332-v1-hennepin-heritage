@@ -1,0 +1,229 @@
+{
+  "county": "Hennepin",
+  "source": "https://enterprise.gisdata.mn.gov/aghost/rest/services/us_mn_state_mngeo/plan_parcels_open/FeatureServer/1/query?f=json&where=UPPER%28co_name%29+%3D+%27HENNEPIN%27&outFields=objectid%2Ccounty_pin%2Cco_name%2Cyear_built%2Cemv_total%2Cuseclass1%2Cacres_poly&returnGeometry=false&orderByFields=objectid&resultRecordCount=20",
+  "status": 200,
+  "features": [
+    {
+      "attributes": {
+        "objectid": 14,
+        "county_pin": "1002824240171",
+        "co_name": "Hennepin",
+        "year_built": 1911,
+        "emv_total": 309000,
+        "useclass1": "Residential",
+        "acres_poly": 0.13
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 15,
+        "county_pin": "1402924310102",
+        "co_name": "Hennepin",
+        "year_built": 1900,
+        "emv_total": 286500,
+        "useclass1": "Residential",
+        "acres_poly": 0.23
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 16,
+        "county_pin": "1411921130060",
+        "co_name": "Hennepin",
+        "year_built": 1996,
+        "emv_total": 469500,
+        "useclass1": "Residential",
+        "acres_poly": 0.62
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 17,
+        "county_pin": "1911822240028",
+        "co_name": "Hennepin",
+        "year_built": 1977,
+        "emv_total": 387700,
+        "useclass1": "Residential",
+        "acres_poly": 0.29
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 18,
+        "county_pin": "3302824440137",
+        "co_name": "Hennepin",
+        "year_built": 2004,
+        "emv_total": 195000,
+        "useclass1": "Condominium (also Market Rate Cooperative)",
+        "acres_poly": 2.13
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 21,
+        "county_pin": "2011622120083",
+        "co_name": "Hennepin",
+        "year_built": 1992,
+        "emv_total": 583600,
+        "useclass1": "Residential",
+        "acres_poly": 0.24
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 22,
+        "county_pin": "3502824130121",
+        "co_name": "Hennepin",
+        "year_built": 1955,
+        "emv_total": 346600,
+        "useclass1": "Residential",
+        "acres_poly": 0.2
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 23,
+        "county_pin": "3611923410065",
+        "co_name": "Hennepin",
+        "year_built": 2017,
+        "emv_total": 714400,
+        "useclass1": "Residential",
+        "acres_poly": 0.29
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 30,
+        "county_pin": "0111922430017",
+        "co_name": "Hennepin",
+        "year_built": 1976,
+        "emv_total": 375600,
+        "useclass1": "Residential",
+        "acres_poly": 0.33
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 43,
+        "county_pin": "0802824420033",
+        "co_name": "Hennepin",
+        "year_built": 1905,
+        "emv_total": 1400000,
+        "useclass1": "Commercial",
+        "acres_poly": 0.24
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 44,
+        "county_pin": "3411723210041",
+        "co_name": "Hennepin",
+        "year_built": 1948,
+        "emv_total": 749600,
+        "useclass1": "Residential",
+        "acres_poly": 0.16
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 52,
+        "county_pin": "0102924110026",
+        "co_name": "Hennepin",
+        "year_built": 1954,
+        "emv_total": 374900,
+        "useclass1": "Residential",
+        "acres_poly": 0.15
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 53,
+        "county_pin": "1511922140059",
+        "co_name": "Hennepin",
+        "year_built": 1990,
+        "emv_total": 378700,
+        "useclass1": "Residential",
+        "acres_poly": 0.23
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 62,
+        "county_pin": "0602924110056",
+        "co_name": "Hennepin",
+        "year_built": 1950,
+        "emv_total": 291400,
+        "useclass1": "Residential",
+        "acres_poly": 0.2
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 63,
+        "county_pin": "2111722310023",
+        "co_name": "Hennepin",
+        "year_built": 2005,
+        "emv_total": 1088800,
+        "useclass1": "Residential",
+        "acres_poly": 0.51
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 64,
+        "county_pin": "2911621410081",
+        "co_name": "Hennepin",
+        "year_built": 1979,
+        "emv_total": 469200,
+        "useclass1": "Residential",
+        "acres_poly": 0.26
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 71,
+        "county_pin": "0711721130018",
+        "co_name": "Hennepin",
+        "year_built": 1953,
+        "emv_total": 353300,
+        "useclass1": "Residential",
+        "acres_poly": 0.29
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 72,
+        "county_pin": "1811821220026",
+        "co_name": "Hennepin",
+        "year_built": 1978,
+        "emv_total": 364300,
+        "useclass1": "Residential",
+        "acres_poly": 0.23
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 73,
+        "county_pin": "2602924240082",
+        "co_name": "Hennepin",
+        "year_built": 1900,
+        "emv_total": 0,
+        "useclass1": "Commercial",
+        "acres_poly": 0.08
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 80,
+        "county_pin": "0511723230044",
+        "co_name": "Hennepin",
+        "year_built": 2002,
+        "emv_total": 4420900,
+        "useclass1": "Residential Lake Shore",
+        "acres_poly": 1.25
+      }
+    }
+  ],
+  "error": null,
+  "exceededTransferLimit": true
+}
